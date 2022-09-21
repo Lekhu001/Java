@@ -35,5 +35,7 @@ public class ArmestrongNumber {
 			System.out.println(n + " is not armstrong number");
 		}
 	}
-
+private void name() {
+	
+}
 }
